@@ -1,11 +1,4 @@
-I cannot directly create and provide a PDF file in this chat interface. However, I am providing the complete content in Markdown format, which is ready to be pasted into a file named `README.md` and then easily converted to a PDF using various online tools or local converters (like Pandoc).
-
------
-
-## Complete Content for `README.md`
-
-````markdown
-# 🖼️ Graphical Password Authentication System for Information Security
+ # 🖼️ Graphical Password Authentication System for Information Security
 
 ## Project Overview
 
